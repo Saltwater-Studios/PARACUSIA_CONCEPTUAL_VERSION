@@ -33,3 +33,15 @@ Only one person is creating all of this (whilst I, the one developing it, are st
 - Two different biomes (in total)
 - Hunger
 - A (slightly) more advanced movement system
+
+# FULL LIST OF INSPIRATIONS:
+
+- Voices of the Void
+- Cavern Crusher
+- Omori
+- Yume Nikki
+- Yume 2kki
+- .flow
+- LOCAL 58
+- Gemini Home Entertainment
+- Mystery Flesh Pit
