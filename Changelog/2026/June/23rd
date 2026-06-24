@@ -1,3 +1,12 @@
 Changelog
 
 - Been doing even more SERIOUS cleaning up of my code, here's to hoping that it works (its 2:37 at the time of writing this)!
+- Added moon at nighttime
+- Adjusted sprint stamina usage
+
+(Later in the day...)
+- Almost done overhauling/heavily optimizing code (as well as making the code much easier to read)
+
+
+I'm gonna be honest—this is (for me) pretty difficult to do. As in order to optimize/improve the readability of the code, I have to rewrite a **lot** of it (especially the sleeping feature's code).
+At least I have an excuse to make everything better.
