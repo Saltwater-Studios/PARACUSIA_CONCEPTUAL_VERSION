@@ -1,9 +1,9 @@
 Changelog:
 
-- Added 3 extra settings options:
-1. Resolution/Viewport can now be set to a minimum of 15% of your regular display (obviously not reccomended and is reserved for computers that need it).
-2. Made the "MAX" setting option for the "sun shadowmap" even more high-quality.
-3. Shadow distance
+- Added 4 extra settings options:
+1. Resolution/Viewport can now be set to a minimum of 15% of your regular display (obviously **not** reccomended and is reserved for real-life computers that need it).
+2. Made the MAX setting option for the "sun shadowmap" even more high-quality.
+3. Added a setting to make the positional shadowmaps 256 instead of the previous minimum of 512
+4. Added a "Shadow distance" setting; closer = higher quality.
 
-- Added a "shadow distance" setting.
 - Added tooltips to the settings menu, explaining what each setting does.
