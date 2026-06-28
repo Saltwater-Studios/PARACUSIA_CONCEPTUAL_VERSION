@@ -3,4 +3,4 @@ Changelog:
 - Adjusted run and sprint speeds.
 - Made it so that when you're in bed. you regain stamina quicker (it doesn't matter if asleep or not [yet, at least])
 - Made it so that when you're low on sleep, your max stamina goes down
-- (Mostly) fixed sleeping--not perfect but it still works (sleeping didn't work since yesterday)
+- (Mostly) fixed sleeping--not perfect but it still works (sleeping didn't work since yesterday afternoon due to me attempting to fix up code)
