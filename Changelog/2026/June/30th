@@ -1,3 +1,4 @@
 Changelog
 
-- Moderately improved base perfomance
+- Moderately improved base perfomance.
+- Base now hides itself when far away, adding a small performance boost.
