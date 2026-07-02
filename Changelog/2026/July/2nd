@@ -1,0 +1,5 @@
+Changelog:
+
+1:50 AM
+- Fixed a bug where you could still see your character when in bed/using the computer/looking out the front door's peephole (bug happened whenoverhauling code).
+- Made it so that player can no longer move/move the camera when in bed/using the computer/looking out the front door's peephole.
