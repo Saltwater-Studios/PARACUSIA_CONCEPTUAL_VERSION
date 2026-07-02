@@ -2,3 +2,6 @@ Changelog:
 
 2:40 AM
 - Began properly working on adding a PC UI system, where you can buy stuff and switch cameras (not complete yet obviously but I'm very much working on it!!!)
+
+11:46 pm
+- Made camera models fade as they get farther away (and tweaked some settings)
