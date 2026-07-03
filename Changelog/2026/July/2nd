@@ -4,3 +4,6 @@ Changelog:
 - Fixed a bug where you could still see your character when in bed/using the computer/looking out the front door's peephole (bug happened whenoverhauling code).
 - Made it so that player can no longer move/move the camera when in bed/using the computer/looking out the front door's peephole.
 - Fixed crouching/crawling (these functions just kinda stopped working one day)
+
+8:20 PM
+- The PC cameras now properly work, you can switch between them now.
