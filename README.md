@@ -3,7 +3,7 @@ PARACUSIA is a slow-paced horror-comedy game about mining, primarily inspired by
 
 As this is a conceptual build, not all features are in the game yet, and this project far from complete.
 
-Only one person is creating all of this (whilst I, the one developing it, are still learning many, many things), so expect progress to be relatively slow.
+Only one person is developing all of this (whilst I--the one developing it--am still learning many, many things), so, expect progress to be relatively slow.
 
 ****THIS IS ONLY A PLACE TO TRACK THE UPDATES MADE TO THE GAME.****
 ****THIS GAME WILL NOT GO OPEN-SOURCE FOR A LONG, LONG TIME.****
@@ -14,10 +14,10 @@ Only one person is creating all of this (whilst I, the one developing it, are st
 - Basic movement
 - Sleeping system/sleep bar
 - Different handheld light sources (including the ability to switch between them)
-
+- In-game computer/PC system where you can buy stuff
+  
 # FEATURES ACTIVELY BEING WORKED ON:
 
-- In-game computer/PC system where you can buy stuff
 - Terrain (This is mostly done; only minor touch-ups are needed)
 - Music
 - HUD/GUI
