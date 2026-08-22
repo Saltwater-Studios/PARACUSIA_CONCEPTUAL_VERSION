@@ -1,0 +1,6 @@
+Changelog:
+
+12:30
+
+- Added an extra setting where you can enable or disable minor/less noticable shadows from a "Light3D" node for an extra performance boost. All shadows coming from a "Light3D" node can also be disabled
+(though, this should only be the case if absolutely needed as it makes everything look bad). The Sun's shadows cannot be disabled.
