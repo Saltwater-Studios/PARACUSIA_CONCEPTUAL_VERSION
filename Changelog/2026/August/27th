@@ -7,3 +7,7 @@ Changelog:
 5:45
 
 - Added LoDs to the "trees" (there's only the trunk/bark of the trees for now. I will finish the trees before the release of the first build)
+
+6:05
+
+- Revoked the ability to cast shadows from certain objects that would cast non-visible/very barely visible shadows.
