@@ -1,0 +1,5 @@
+Changelog:
+
+5:30 (or something)
+
+- Moved the OmniLight3D (that surrounds the player) to be underneath the camera instead of inside of the playermodel.
