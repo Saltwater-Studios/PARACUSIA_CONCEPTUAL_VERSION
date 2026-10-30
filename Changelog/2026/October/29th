@@ -1,0 +1,14 @@
+Changelog:
+
+7:30 PM
+
+- Fixed a bug where if the FPS was low, player collision would be messed up.
+
+8:00 PM
+
+- Began utilizing "export" variables.
+
+- Made player character it's own seperate scene and NOT dependant on other things within the scene. Essentially, what happened before this changelog was that the player node was copied and pasted 
+(NOT instantiated as a IT'S OWN SCENE) into the map, and it was dependant on other nodes in the scene (Otherwise, the game would crash.) I actually wanted to fix this forever ago but I was just lazy
+and put it off 'til now. Unfortunately, this change introduces a "Signal is already connected to given callable" error. This error doesn't seem to impact gameplay, but I'll probably fix it before I do anything
+else (just to be safe.)
