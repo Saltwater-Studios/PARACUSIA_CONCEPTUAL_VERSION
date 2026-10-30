@@ -51,7 +51,7 @@ You can describe PARACUSIA as any of these genres and it will be technically cor
 - Semi-experimentalist
 - Vent game
 
-(Have fun describing this game to someone as a "whimsical quirky-comedy fantasy game" because you'd technically not be wrong. This was also supposed to be more "spaced-out" but GitHub won't allow me for some reason to do that.)
+(Have fun describing this game to someone as a "whimsical quirky-comedy fantasy game" because you'd technically not be wrong. This list was also supposed to be more "spaced-out" but GitHub won't allow me for some reason to do that.)
   
 # CURRENT FEATURES:
 
