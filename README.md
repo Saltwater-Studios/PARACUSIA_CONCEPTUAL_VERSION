@@ -15,7 +15,7 @@ PARACUSIA is best described as a mix of different genres. While it is primarily 
 
 You can describe PARACUSIA as any of these genres and it will be technically correct:
 
-- **Horror**
+- ***Horror***
 - Psychological horror
 - Body horror
 - Monster horror
@@ -23,26 +23,26 @@ You can describe PARACUSIA as any of these genres and it will be technically cor
 - Survival horror
 - "Quiet" horror
 
-- **Comedy**
+- ***Comedy***
 - Slapstick comedy
 - Surrealist comedy
 - Quirky comedy
 - Dry comedy
 
-- **Thriller**
+- ***Thriller***
 - Psychological thriller
 
-- **Survival**
+- ***Survival***
 
-- **Adventure**
+- ***Adventure***
 
-- **Fantasy**
+- ***Fantasy***
 
-- **Simulation**
+- ***Simulation***
 - Life-sim
 - Job-sim
 
-- **Misc/descriptive terms**
+- ***Misc/descriptive terms***
 - Sandbox
 - Open-world
 - Whimsical
@@ -51,7 +51,7 @@ You can describe PARACUSIA as any of these genres and it will be technically cor
 - Semi-experimentalist
 - Vent game
 
-(Have fun describing this game to someone as a "whimsical quirky-comedy fantasy game" because you'd technically not be wrong.)
+(Have fun describing this game to someone as a "whimsical quirky-comedy fantasy game" because you'd technically not be wrong. This was also supposed to be more "spaced-out" but GitHub won't allow me for some reason to do that.)
   
 # CURRENT FEATURES:
 
