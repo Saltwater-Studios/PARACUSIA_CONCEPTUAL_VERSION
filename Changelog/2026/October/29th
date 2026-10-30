@@ -12,3 +12,6 @@ Changelog:
 (NOT instantiated as a IT'S OWN SCENE) into the map, and it was dependant on other nodes in the scene (Otherwise, the game would crash.) I actually wanted to fix this forever ago but I was just lazy
 and put it off 'til now. Unfortunately, this change introduces a "Signal is already connected to given callable" error. This error doesn't seem to impact gameplay, but I'll probably fix it before I do anything
 else (just to be safe.)
+
+- Changed types of Nodes (from Control, Node2D, or Node3D) because I felt like it, as well as for better catagorizing (and I might've gotten a very, very tiny performance boost? I can't really tell, so
+if there is a boost in performance, it's pretty much negligible.)
