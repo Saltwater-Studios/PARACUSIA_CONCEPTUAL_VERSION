@@ -1,0 +1,16 @@
+I was gonna write a semi-joke/horror story for this changelog but I decided against it because I just didn't feel like it was right for some reason. 
+
+All I'm gonna reveal about it right now was that (at the latter end of the story) it was gonna involve Mariah Carey singing the song "All I want for Christmas is You" 
+but the whole story was written in an extremely dark (and maybe even gothic) style and would include serious mental health issues.
+
+Might make the story available one day, I dunno though.
+
+Anyway...
+
+
+
+Changelog:
+
+5:35 PM
+
+- Began to remove all of the @export variables I made, turns out they don't work if the script that they're in is an Autoload...
